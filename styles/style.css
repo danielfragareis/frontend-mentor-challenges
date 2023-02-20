@@ -12,16 +12,32 @@ body {
         margin: 100px 20px;
         background-color: white;
         position: relative;
-        border-radius: 18px;
+        border-radius: 22px;
+        width: auto;
+        height: 85vh;
     }
 
     img {
         height: 50vh;
-        margin: 15px 20px 15px 20px;
-        border-radius: 9px; 
+        margin: 17px 14px;
+        border-radius: 12px; 
+        /* Falta fazer a imagem diminuir conforme a width do dispositivo diminui de 375 */
     }
 
     div.text {
-        /* position: absolute; */
+        text-align: center;
+        font-family: "Outfit";
+    }
+
+    h1 {
+        color: hsl(218, 44%, 22%);
+        font-size: 1.4em;
+    }
+
+    p {
+        font-size: 0.97em;
+        color: hsl(220, 15%, 55%);
+        font-weight: 400;
+        margin-top: 20px;
     }
 }
