@@ -7,18 +7,46 @@ body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
     font-family: "Outfit";
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+div.principal  {
+    justify-content: center;
+    align-items: center;
+    margin: 50px 20px;
+    background-color: white;
+    border-radius: 22px;
+    max-width: 350px;
+    height: 65vh;
+    padding-bottom: 35px; 
+}
+
+img {
+    height: 40vh;
+    margin: 17px 14px 10px;
+    border-radius: 12px; 
+    max-width: 350px;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 1.4em;
+    padding-top: 10px;
+}
+
+p {
+    font-size: 0.97em;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    margin-top: 20px;
 }
 
 @media only screen and (max-width: 375px) {
     div.principal  {
-        display: flex;
-        flex-direction: column;
-        /* justify-content: right; */
-        align-items: center;
         margin: 50px 20px;
-        background-color: white;
-        position: relative;
-        border-radius: 22px;
         min-width: 335px;
         height: 78vh;
         padding-bottom: 35px; 
