@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -21,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qrcodecomponentchallenge-using-flexbox-6cKLeQaRqU)
-- Live Site URL: [Add live site URL here](https://danielfragareis.github.io/frontend-mentor-challenges/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qrcodecomponentchallenge-using-flexbox-6cKLeQaRqU](https://www.frontendmentor.io/solutions/responsive-qrcodecomponentchallenge-using-flexbox-6cKLeQaRqU)
+- Live Site URL: [https://danielfragareis.github.io/frontend-mentor-challenges/](https://danielfragareis.github.io/frontend-mentor-challenges/)
 
 ## My process
 
