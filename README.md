@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](Images/Screenshot%202023-02-21%20at%2009-43-53%20QR%20code.png)
+![](Images/Screenshot%202023-02-21%20at%2017-32-31%20QR%20code%20component%20challenge%20-%20FrontEnd%20Mentor.png)
 
 ### Links
 
